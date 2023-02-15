@@ -1,0 +1,51 @@
+*{
+
+    background-color: rgb(249, 242, 221);
+}
+
+.title{
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.container{
+
+    padding-left: 400px;
+}
+.pic{
+    display: block;
+    width: auto;
+    height: 200px;
+    padding-left: 500px;
+}
+
+.sub{
+
+    font-weight: 700px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.class,h2{
+
+    text-align: center;
+}
+
+
+.discriptions{
+    text-align: center;
+
+}
+
+li{
+    text-align: center;
+    list-style: none;
+}
+
+.center{
+
+    padding-left: 500px;
+    font-size: 50px;
+}

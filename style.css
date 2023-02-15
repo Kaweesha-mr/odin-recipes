@@ -1,0 +1,42 @@
+*{
+
+    background-color: rgb(249, 242, 221);
+}
+
+.title{
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.pic{
+    display: block;
+    text-align: center;
+
+    padding-left: 300px;
+}
+
+li{
+
+    display: inline-flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    margin-left: 150px;
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+
+    text-decoration: underline;
+}
+
+a:visited{
+    color: black;
+    
+}
